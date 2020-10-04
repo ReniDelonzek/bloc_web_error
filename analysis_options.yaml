@@ -1,0 +1,6 @@
+analyzer:
+  enable-experiment:
+    - non-nullable
+  exclude:
+    - lib/app/shared/bd/model.g.dart
+    
